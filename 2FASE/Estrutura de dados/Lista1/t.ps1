@@ -1,0 +1,1 @@
+$dir = 'C:/Users/Gabri/OneDrive/READET~1/Atividades-1fase/2FASE\Estrutura de dados\Lista1'; New-Item -ItemType Directory -Force -Path "$dir/output" | Out-Null; gcc -Wall -Wextra -g3 "$dir/1.c" -o "$dir/output/1.exe"

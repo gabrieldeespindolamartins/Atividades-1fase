@@ -1,0 +1,1 @@
+chcp 65001 | Out-Null; & gcc -Wall -Wextra -g3 'c:\Users\Gabri\OneDrive\Área de Trabalho\Atividades-1fase\2FASE\Estrutura de dados\Lista1\1.c' -o 'c:\Users\Gabri\OneDrive\Área de Trabalho\Atividades-1fase\2FASE\Estrutura de dados\Lista1\output\teste_c.exe'; exit $LASTEXITCODE

@@ -1,0 +1,4 @@
+-environment-cd "C:/Users/Gabri/OneDrive/READET~1/ATIVID~1/2FASE/ESTRUT~1/Lista1"
+-file-exec-and-symbols "C:/Users/Gabri/OneDrive/READET~1/ATIVID~1/2FASE/ESTRUT~1/Lista1/output/1.exe"
+-break-insert main
+-exec-run

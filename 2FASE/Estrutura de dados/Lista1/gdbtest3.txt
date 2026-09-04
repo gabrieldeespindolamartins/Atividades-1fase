@@ -1,0 +1,3 @@
+-environment-cd "C:/Users/Gabri/OneDrive/READET~1/Atividades-1fase/2FASE/Estrutura de dados/Lista1"
+-file-exec-and-symbols "C:/Users/Gabri/OneDrive/READET~1/Atividades-1fase/2FASE/Estrutura de dados/Lista1/output/1.exe"
+-break-insert main

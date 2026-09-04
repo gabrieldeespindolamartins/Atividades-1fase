@@ -1,0 +1,17 @@
+public class ExemploEntradaParqueDiversao
+{
+    public static void main(String args[]){
+
+        //declarar as variaveis e atribuir os valores para as variaveis com os comandos de entrada:
+        // - seuNome, primeiraLetraNome, idade
+        String seuNome = Teclado.leString("Nome do participante: ");
+        char primeiraLetraNome = Teclado.leChar("Primeira Letra do Nome do participante: ");
+        int idade = Teclado.leInt("Idade do participante: ");
+
+        //imprimir as mensagens na tela para confirmação dos dados informados
+        System.out.print("Olá ");
+        System.out.println(seuNome);
+        System.out.printf("A primeira letra do seu nome é: %c. \n", primeiraLetraNome);
+        System.out.printf("Sua idade é: %d.", idade);
+    }
+}

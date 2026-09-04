@@ -1,0 +1,1 @@
+chcp 65001 | Out-Null; & gcc "c:\Users\Gabri\OneDrive\xc1rea de Trabalho\Atividades-1faseFASEstrutura de dados\Lista1.c" -o "c:\Users\Gabri\OneDrive\xc1rea de Trabalho\Atividades-1faseFASEstrutura de dados\Lista1\output\zz.exe"

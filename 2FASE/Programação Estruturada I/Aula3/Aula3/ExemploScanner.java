@@ -11,9 +11,9 @@ public class ExemploScanner
         System.out.print("Digite sua idade :");
         int idade = scanner.nextInt();
         
-        System.out.print("nome: " + nome);
-        System.out.print("Idade: " + idade;
-        
+        System.out.println("nome: " + nome);
+        System.out.println("Idade: " + idade);
+
         scanner.close();
     }
 }
