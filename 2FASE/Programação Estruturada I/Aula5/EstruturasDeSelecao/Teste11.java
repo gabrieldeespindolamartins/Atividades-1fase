@@ -30,8 +30,12 @@ public class Teste11
                 System.out.println("O resultado da multiplicação eh: " + resultado);
                 break;
             case 4:
-                resultado = a / b;
-                System.out.println("O resultado da divisão eh: " + resultado);
+                if (b == 0) {
+                    System.out.println("Não é possível dividir por zero!");
+                } else {
+                    resultado = a / b;
+                    System.out.println("O resultado da divisão eh: " + resultado);
+                }
                 break;
             default:
                 System.out.println("Opção inválida! ");

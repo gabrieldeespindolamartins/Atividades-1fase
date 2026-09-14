@@ -29,5 +29,16 @@ public class Teste05 //Testando if / else if
             else
                 System.out.println("C6");
         }
+
+        // ==================== RESPOSTAS ====================
+        // Comandos executados em cada situacao:
+        // v)    A, B, C e D true                     -> C1 e C2
+        // vi)   A=false, B=true, C=false, D=true     -> nenhum comando
+        //                                              (o if externo e false)
+        // vii)  A=true, B=false, C=false, D=true     -> C1, C4 e C5
+        // viii) A=true, B=false, C=true, D=true      -> C1 e C3
+        // Observacao: na cascata else-if apenas o primeiro teste verdadeiro
+        // e executado; os demais sao ignorados.
+        // ===================================================
     }
 }

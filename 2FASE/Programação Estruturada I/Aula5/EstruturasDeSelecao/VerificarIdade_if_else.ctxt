@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sun Sep 13 21:07:10 BRT 2026
+comment0.target=VerificarIdade_if_else
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment2.params=idade
+comment2.target=java.lang.String faixaEtaria(int)
+numComments=3

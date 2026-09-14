@@ -26,5 +26,15 @@ public class Teste04 //Testando if else
             else
                 System.out.println("C5");
         System.out.println("C6");
+
+        // ==================== RESPOSTAS ====================
+        // Comandos executados em cada situacao (digite valores iguais para
+        // tornar a variavel true e valores diferentes para torna-la false):
+        // i)   A, B e C true             -> C1, C2, C3 e C6
+        // ii)  A=true, B=false, C=true   -> C5 e C6
+        // iii) A=true, B=true, C=false   -> C1, C4 e C6
+        // iv)  A, B e C false            -> somente C6
+        // Observacao: C6 esta fora de todos os if, por isso sempre executa.
+        // ===================================================
     }
 }

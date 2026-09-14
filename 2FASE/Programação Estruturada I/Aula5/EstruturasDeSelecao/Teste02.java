@@ -40,5 +40,26 @@ public class Teste02
         }
 
         System.out.println("Valores finais -> a: " + a + ", b: " + b + ", c: " + c);
+
+        // ==================== RESPOSTAS ====================
+        // Quais if's sao executados e quais dao resultado true:
+        // i.   a=3, b=7, c=5 -> if 1 true (troca a,b => 7,3,5)
+        //                      if 2 true (troca b,c => 7,5,3)
+        //                      if 3 executado, porem false (7 < 5 e falso)
+        //                      Final: a=7, b=5, c=3
+        // ii.  a=3, b=5, c=7 -> if 1 true (=> 5,3,7)
+        //                      if 2 true (=> 5,7,3)
+        //                      if 3 true (=> 7,5,3)
+        //                      Final: a=7, b=5, c=3
+        // iii. a=5, b=3, c=7 -> if 1 executado, porem false (5 < 3 e falso)
+        //                      if 2 true (=> 5,7,3)
+        //                      if 3 true (=> 7,5,3)
+        //                      Final: a=7, b=5, c=3
+        // iv.  a=5, b=7, c=3 -> if 1 true (=> 7,5,3)
+        //                      if 2 executado, porem false (5 < 3 e falso)
+        //                      if 3 nao e executado (esta dentro do if 2)
+        //                      Final: a=7, b=5, c=3
+        // Conclusao: o trecho sempre deixa os tres valores em ordem decrescente.
+        // ===================================================
     }
 }
