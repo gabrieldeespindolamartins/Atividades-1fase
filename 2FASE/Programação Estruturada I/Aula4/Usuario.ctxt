@@ -1,8 +1,9 @@
 #BlueJ class context
-#Mon Aug 24 09:10:45 BRT 2026
+#Sun Sep 20 16:30:17 BRT 2026
 comment0.target=Usuario
 comment1.params=mat nome log sen
 comment1.target=Usuario(int, java.lang.String, java.lang.String, java.lang.String)
+comment10.target=void exibeDados()
 comment2.target=int getMatricula()
 comment3.params=matricula
 comment3.target=void setMatricula(int)
@@ -15,4 +16,4 @@ comment7.target=void setLogin(java.lang.String)
 comment8.target=java.lang.String getSenha()
 comment9.params=senha
 comment9.target=void setSenha(java.lang.String)
-numComments=10
+numComments=11

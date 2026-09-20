@@ -1,10 +1,12 @@
 #BlueJ class context
-#Mon Aug 24 09:10:45 BRT 2026
+#Sun Sep 20 16:30:17 BRT 2026
 comment0.target=Aluno
-comment0.text=\r\n Escreva uma descri\u00E7\u00E3o da classe Aluno aqui.\r\n \r\n @author (seu nome) \r\n @version (um n\u00FAmero da vers\u00E3o ou uma data)\r\n
-comment1.target=Aluno()
-comment1.text=\r\n Construtor para objetos da classe Aluno\r\n
-comment2.params=y
-comment2.target=int sampleMethod(int)
-comment2.text=\r\n Um exemplo de um m\u00E9todo - substitua este coment\u00E1rio pelo seu pr\u00F3prio\r\n \r\n @param  y   um exemplo de um par\u00E2metro de m\u00E9todo\r\n @return     a soma de x e y \r\n
-numComments=3
+comment1.params=mat nome log sen
+comment1.target=Aluno(int, java.lang.String, java.lang.String, java.lang.String)
+comment2.target=double getAv1()
+comment3.target=double getAv2()
+comment4.params=nota
+comment4.target=void setAv1(double)
+comment5.params=nota
+comment5.target=void setAv2(double)
+numComments=6
