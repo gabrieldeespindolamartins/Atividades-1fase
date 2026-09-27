@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sun Sep 27 20:28:31 BRT 2026
+comment0.target=Questao01
+comment0.text=\r\n Questao 1 - Arrays unidimensionais.\r\n Considere o array a, de inteiros\:\r\n indice\:  0    1    2     3    4    5   6    7    8   9\r\n valor\: 507  -15  147  2194  300   27  888 -110    0  675\r\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+#Sun Sep 27 20:28:31 BRT 2026
+comment0.target=Questao07
+comment0.text=\r\n Questao 7 - Preenchimento de uma matriz ja instanciada.\r\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment2.params=matrix
+comment2.target=int armazenaImpares(int[][])
+comment3.params=matrix
+comment3.target=int armazenaAleatorios(int[][])
+numComments=4

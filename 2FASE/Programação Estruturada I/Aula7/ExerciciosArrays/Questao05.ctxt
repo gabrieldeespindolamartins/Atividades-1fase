@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sun Sep 27 20:28:31 BRT 2026
+comment0.target=Questao05
+comment0.text=\r\n Questao 5 - Arrays bidimensionais (matrizes).\r\n Considere a matriz mat, de inteiros\:\r\n      col0 col1 col2 col3\r\n lin0\:  13   45   12   19\r\n lin1\:  67   -5   88   37\r\n lin2\:  11   43   13    0\r\n lin3\:  64   52   29   18\r\n lin4\:  71   14   19   62\r\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+numComments=2

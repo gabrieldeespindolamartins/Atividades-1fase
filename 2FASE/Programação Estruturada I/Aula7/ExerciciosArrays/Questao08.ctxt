@@ -1,0 +1,11 @@
+#BlueJ class context
+#Sun Sep 27 20:28:31 BRT 2026
+comment0.target=Questao08
+comment0.text=\r\n Questao 8 - Calculos sobre uma matriz ja instanciada.\r\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment2.params=matrix
+comment2.target=double calculaMedia(int[][])
+comment3.params=matrix
+comment3.target=int contaMultiplos(int[][])
+numComments=4
