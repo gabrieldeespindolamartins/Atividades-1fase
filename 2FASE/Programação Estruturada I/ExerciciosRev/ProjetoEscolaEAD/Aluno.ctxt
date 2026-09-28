@@ -1,0 +1,19 @@
+#BlueJ class context
+#Mon Sep 28 11:26:57 BRT 2026
+comment0.target=Aluno
+comment1.params=codigo nome dataNascimento email senha
+comment1.target=Aluno(int, java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+comment10.target=void exibeDados()
+comment2.target=int getCodigo()
+comment3.params=codigo
+comment3.target=void setCodigo(int)
+comment4.target=java.lang.String getNome()
+comment5.params=nome
+comment5.target=void setNome(java.lang.String)
+comment6.target=java.lang.String getDataNascimento()
+comment7.params=dataNascimento
+comment7.target=void getDataNascimento(java.lang.String)
+comment8.target=java.lang.String getSenha()
+comment9.params=senha
+comment9.target=void setSenha(java.lang.String)
+numComments=11
