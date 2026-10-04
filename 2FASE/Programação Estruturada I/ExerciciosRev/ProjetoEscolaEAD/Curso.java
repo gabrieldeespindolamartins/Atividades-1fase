@@ -39,7 +39,7 @@ public class Curso
     
     //metodo exibe dados
     public void exibeDados(){
-        System.out.println("Dados do aluno");
+        System.out.println("Dados do curso");
         System.out.printf("Codigo: %d\n", codigo);
         System.out.printf("Nome: %s\n", nome);
         System.out.printf("Duracao do curso: %d\n", duracao);

@@ -1,4 +1,20 @@
 #BlueJ class context
-#Wed Sep 30 11:58:57 BRT 2026
+#Sun Oct 04 18:40:10 BRT 2026
 comment0.target=SistemaEscolaEAD
-numComments=1
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment10.params=mensagem
+comment10.target=java.lang.String lerTexto(java.lang.String)
+comment11.params=mensagem
+comment11.target=int lerInt(java.lang.String)
+comment12.params=mensagem
+comment12.target=double lerDouble(java.lang.String)
+comment2.target=void executar()
+comment3.target=void exibirMenu()
+comment4.target=void adicionarAluno()
+comment5.target=void verificarNotas()
+comment6.target=void verificarFinanceiro()
+comment7.target=void cadastrarCursos()
+comment8.target=void matricularAluno()
+comment9.target=void exibirCursos()
+numComments=13
